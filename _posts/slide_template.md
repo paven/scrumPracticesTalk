@@ -1,6 +1,6 @@
 ---
 layout: default
-title: ""
+title: "Scrum Practices"
 published: false
 classes:
  - slide
@@ -10,3 +10,6 @@ data:
 
 ---
 
+# Scrum Practices
+
+## Dayly Standup
